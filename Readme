@@ -1,0 +1,12 @@
+# Parking Management of clustered electric vehicles
+This is a very simple simulation of charging stations 
+situated in parking lots.
+
+To run the simulation you need only execute the 
+**main.py** file.
+
+To do:
+* Drawing simulation flowchart
+* How to accept request?
+* Charging management?
+* Considering driver's flexibility
